@@ -1,3 +1,4 @@
 あいうえお
 カキクケコ
-git 
+git rm
+git status
